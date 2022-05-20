@@ -1,0 +1,34 @@
+{
+  "name": "projeto-hackthon2.0-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelmarco-dev/projeto-hackthon2.0-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelmarco-dev/projeto-hackthon2.0-back/issues"
+  },
+  "homepage": "https://github.com/samuelmarco-dev/projeto-hackthon2.0-back#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "chalk": "^5.0.1",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.6.0",
+    "nodemon": "^2.0.16",
+    "sanitize-html": "^2.7.0",
+    "uuid": "^8.3.2"
+  }
+}
