@@ -1,0 +1,212 @@
+//ProvaSoma
+{
+	"title": "Prova de soma",
+    "type": "Matemática",
+	"questions": [
+		{
+			"title": "2 + 2",
+			"answers": [
+                {
+                    "text": "2",
+                    "isTrue": false
+                },
+                {
+                    "text": "3",
+                    "isTrue": false
+                },
+				{
+					"text": "4",
+					"isTrue": true
+				},
+				{
+					"text": "5",
+					"isTrue": false
+				}
+			]
+		},
+		{
+			"title": "2 + 2",
+			"answers": [
+                {
+                    "text": "2",
+                    "isTrue": false
+                },
+                {
+                    "text": "3",
+                    "isTrue": false
+                },
+				{
+					"text": "4",
+					"isTrue": true
+				},
+				{
+					"text": "5",
+					"isTrue": false
+				}
+			]
+		},
+		{
+			"title": "5 + 9",
+			"answers": [
+                {
+                    "text": "8",
+                    "isTrue": false
+                },
+                {
+                    "text": "12",
+                    "isTrue": false
+                },
+				{
+					"text": "14",
+					"isTrue": true
+				},
+				{
+					"text": "16",
+					"isTrue": false
+				}
+			]
+		}
+	]
+}
+
+//ProvaLocalização
+{
+	"title": "Prova de localização geográfica",
+    "type": "Geografia",
+	"questions": [
+		{
+			"title": "Suponha que o sol está nascendo à sua direita, em qual direção fica o norte?",
+			"answers": [
+                {
+                    "text": "À sua frente",
+                    "isTrue": true
+                },
+                {
+                    "text": "À sua direita",
+                    "isTrue": false
+                },
+				{
+					"text": "À sua esquerda",
+					"isTrue": false
+				},
+				{
+					"text": "Atras de você",
+					"isTrue": false
+				}
+			]
+		},
+		{
+			"title": "Suponha que você está olhando para o sul, em qual direção o Sol deveria se por?",
+			"answers": [
+                {
+                    "text": "À sua frente",
+                    "isTrue": false
+                },
+                {
+                    "text": "À sua direita",
+                    "isTrue": true
+                },
+				{
+					"text": "À sua esquerda",
+					"isTrue": false
+				},
+				{
+					"text": "Atras de você",
+					"isTrue": false
+				}
+			]
+		},
+		{
+			"title": "Suponha que, ao meio dia de um inverno, a sua sombra esteja sendo projetada para o sul. Em qual emisféreo você está?",
+			"answers": [
+                {
+                    "text": "Sul",
+                    "isTrue": true
+                },
+                {
+                    "text": "Norte",
+                    "isTrue": false
+                },
+				{
+					"text": "Oriental",
+					"isTrue": false
+				},
+				{
+					"text": "Ocidental",
+					"isTrue": false
+				}
+			]
+		}
+	]
+}
+
+//ProvaMatemáticaAvançada
+{
+	"title": "Prova de matemática avançada",
+    "type": "Matemática",
+	"questions": [
+		{
+			"title": "5! / 7!",
+			"answers": [
+                {
+                    "text": "5/7",
+                    "isTrue": false
+                },
+                {
+                    "text": "1/49",
+                    "isTrue": false
+                },
+				{
+					"text": "1/42",
+					"isTrue": true
+				},
+				{
+					"text": "1/35",
+					"isTrue": false
+				}
+			]
+		},
+		{
+			"title": "2^10 / 3!",
+			"answers": [
+                {
+                    "text": "512/3",
+                    "isTrue": true
+                },
+                {
+                    "text": "1024/3",
+                    "isTrue": false
+                },
+				{
+					"text": "512/6",
+					"isTrue": false
+				},
+				{
+					"text": "1024/9",
+					"isTrue": false
+				}
+			]
+		},
+		{
+			"title": "d/dx(x^2 + 2x - 36)",
+			"answers": [
+                {
+                    "text": "x^3 + 2x^2 - 35x",
+                    "isTrue": false
+                },
+                {
+                    "text": "0",
+                    "isTrue": false
+                },
+				{
+					"text": "2x + 2",
+					"isTrue": true
+				},
+				{
+					"text": "36",
+					"isTrue": false
+				}
+			]
+		}
+	]
+}
